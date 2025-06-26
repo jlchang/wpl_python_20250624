@@ -8,9 +8,9 @@ Workshop Resources
 
 * JupyterLite notebook: [jupyter.org/try-jupyter](https://jupyter.org/try-jupyter)		files: [jupyter.org/try-jupyter/tree/](https://jupyter.org/try-jupyter/tree/)  
 * Slides: [Day 1](https://docs.google.com/presentation/d/1r-J5uWoKcr1t1zqCkzbC_srbQGolAHsbhfhgMJxBcis/edit?slide=id.g36a934da722_0_0#slide=id.g36a934da722_0_0), [Day 2](https://docs.google.com/presentation/d/1gXzlWfqH-lroGVUy9FSCgEYoPXEX3VhJ9gI_MvfrOuY), Day 3  
-* Notebooks: Day1  
-* [Starter JupyterNotebook](https://github.com/jlchang/wpl_python_20250624/blob/main/first_last_JupyterNb.ipynb): tinyurl.com/starter-ipynb  
-* [Reference JupyterNotebook](https://github.com/jlchang/wpl_python_20250624/blob/main/wpl_pythonJun24.ipynb) (click the “raw” option, use the URL to run in JupyterLite)
+* [Starter JupyterNotebook](https://github.com/jlchang/wpl_python_20250624/blob/main/first_last_JupyterNb.ipynb) (get “raw” URL, use “Open from URL” to run in JupyterLite)  
+* Reference Jupyter Notebooks: [Day 1](https://github.com/jlchang/wpl_python_20250624/blob/main/wpl_pythonJun25.ipynb), [Day 2](https://github.com/jlchang/wpl_python_20250624/blob/main/wpl_pythonJun26.ipynb)  
+* Notebooks created during workshop sessions: [Day 1](https://github.com/jlchang/wpl_python_20250624/blob/main/Day1_notebook.ipynb), [Day 2](https://github.com/jlchang/wpl_python_20250624/blob/main/Day2_notebook.ipynb)
 
 Free Python learning resources
 
@@ -41,6 +41,6 @@ How do I run Python on my own computer?
   * To launch JupyterLab \- in a terminal window, type:  
     * jupyter lab
 
-Test for cut-and-paste:    
+Text for cut-and-paste:  
 big\_word \= "supercalifragilisticexpialidocious"  
 long\_number \= 3.141592653589793238462643383279502  
