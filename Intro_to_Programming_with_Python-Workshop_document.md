@@ -41,6 +41,6 @@ How do I run Python on my own computer?
   * To launch JupyterLab \- in a terminal window, type:  
     * jupyter lab
 
-[ipynb](http://tinyurl.com/ipynbJun24)  
+Test for cut-and-paste:    
 big\_word \= "supercalifragilisticexpialidocious"  
 long\_number \= 3.141592653589793238462643383279502  
